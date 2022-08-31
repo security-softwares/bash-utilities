@@ -1,4 +1,6 @@
 # bash-utilites
+safe tools for privacy essentials and hackers 
+
 
 ## For linux requirements -
 - >apt-get install gnupg
@@ -9,9 +11,8 @@ pkg install gnupg
 ```
 
 
-**all type of tools weather forecast | encrypter / decrypter ,,| random Password generater and hashes etc**
 
-- >git clone https://github.com/HackersTech/bash-utilites
+- >git clone https://github.com
 
 >cd bash utilities 
 
