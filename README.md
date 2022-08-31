@@ -12,7 +12,7 @@ pkg install gnupg
 
 
 
-- >git clone https://github.com
+- >git clone https://github.com/security-essentials/bash-utilities
 
 >cd bash utilities 
 
